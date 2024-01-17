@@ -12,5 +12,7 @@
 [._]ss[a-gi-z]
 [._]sw[a-p]
 
+node_modules
 # misc
 .DS_Store
+lib/settings.db.json
