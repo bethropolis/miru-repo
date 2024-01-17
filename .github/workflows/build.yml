@@ -2,7 +2,7 @@ name: Go
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "test" ]
 
 jobs:
 
@@ -10,6 +10,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: 'latest'
+    
+    - name: Install dependencies
+      run: npm install
+    
+    - name: test extensions
+      run:  node lib/index.js
 
     - name: Set up Go
       uses: actions/setup-go@v3

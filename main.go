@@ -3,6 +3,7 @@ package main
 import (
 	"encoding/json"
 	"fmt"
+	"io/ioutil"
 	"log"
 	"os"
 	"path"
@@ -10,8 +11,15 @@ import (
 	"strings"
 )
 
+type TestResult struct {
+	Status string `json:"status"`
+}
+
 func main() {
 	extensions := readRepoExtensions()
+
+	testResults := readTestResults()
+
 	f, err := os.Create("index.json")
 	if err != nil {
 		log.Fatal(err)
@@ -35,8 +43,8 @@ func main() {
 Miru extensions repository | [Miru App Download](https://github.com/miru-project/miru-app) |
 
 ## List
-|  Name   | Package | Version | Author | Language | Type | Source |
-|  ----   | ---- | --- | ---  | ---  | --- | --- |
+|  Name   | Package | Version | Author | Language | Type | Test | Source |
+|  ----   | ---- | --- | ---  | ---  | --- | --- | --- |
 `
 
 	for _, v := range extensions {
@@ -45,7 +53,8 @@ Miru extensions repository | [Miru App Download](https://github.com/miru-project
 		if nsfw {
 			continue
 		}
-		readme += fmt.Sprintf("| %s | %s | %s | %s | %s | %s | %s |\n", v["name"], v["package"], v["version"], v["author"], v["lang"], v["type"], url)
+		testEmoji := checkTestStatus(v["package"], testResults)
+		readme += fmt.Sprintf("| %s | %s | %s | %s | %s | %s | %s | %s |\n", v["name"], v["package"], v["version"], v["author"], v["lang"], v["type"], testEmoji, url)
 	}
 	f2.WriteString(readme)
 }
@@ -80,4 +89,34 @@ func readRepoExtensions() []map[string]string {
 		extensions = append(extensions, extension)
 	}
 	return extensions
+}
+
+func readTestResults() map[string]TestResult {
+	jsonFile, err := os.Open("lib/test.json")
+	if err != nil {
+		log.Println("Warning: test.json does not exist")
+		return map[string]TestResult{} // return an empty map
+	}
+	defer jsonFile.Close()
+
+	byteValue, _ := ioutil.ReadAll(jsonFile)
+
+	var results map[string]TestResult
+	json.Unmarshal(byteValue, &results)
+
+	return results
+}
+
+func checkTestStatus(packageName string, testResults map[string]TestResult) string {
+	result, exists := testResults[packageName]
+	if !exists {
+		return "--" 
+	}
+	if result.Status == "pass" {
+		return "✅"
+	}else if result.Status == "fail" {
+		return "❌"
+	}
+
+	return "--"
 }
