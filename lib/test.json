@@ -1,22 +1,14 @@
 {
   "9animetv.to": {
     "extension": "9animetv.to",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T00:59:40.332Z",
-=======
-    "timestamp": "2024-02-11T01:13:10.733Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:32:07.549Z",
     "latest": true,
     "error": "Cannot convert undefined or null to object",
     "status": "fail"
   },
   "agedm.org": {
     "extension": "agedm.org",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T00:59:41.209Z",
-=======
-    "timestamp": "2024-02-11T01:13:11.315Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:32:07.937Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -25,11 +17,7 @@
   },
   "ani.gogo": {
     "extension": "ani.gogo",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T00:59:43.325Z",
-=======
-    "timestamp": "2024-02-11T01:13:14.027Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:32:09.558Z",
     "latest": true,
     "search": false,
     "detail": true,
@@ -38,11 +26,7 @@
   },
   "ani.watch": {
     "extension": "ani.watch",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T00:59:46.573Z",
-=======
-    "timestamp": "2024-02-11T01:13:16.507Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:32:11.421Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -51,11 +35,7 @@
   },
   "anime.flv": {
     "extension": "anime.flv",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T00:59:49.500Z",
-=======
-    "timestamp": "2024-02-11T01:13:21.478Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:32:15.790Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -64,21 +44,13 @@
   },
   "anime.girigirilove.com": {
     "extension": "anime.girigirilove.com",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T00:59:52.877Z",
-=======
-    "timestamp": "2024-02-11T01:13:26.973Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
-    "error": "Request failed",
+    "timestamp": "2024-02-11T01:32:19.555Z",
+    "error": "Request failed with status code 403",
     "status": "fail"
   },
   "animeazu.com": {
     "extension": "animeazu.com",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T00:59:53.034Z",
-=======
-    "timestamp": "2024-02-11T01:13:27.250Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:32:19.803Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -87,33 +59,21 @@
   },
   "animepahe.ru": {
     "extension": "animepahe.ru",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T00:59:56.150Z",
-=======
-    "timestamp": "2024-02-11T01:13:30.571Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:32:23.514Z",
     "latest": true,
-    "error": "Request failed",
+    "error": "Request failed with status code 403",
     "status": "fail"
   },
   "animxer.xyz": {
     "extension": "animxer.xyz",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T00:59:56.701Z",
-=======
-    "timestamp": "2024-02-11T01:13:31.123Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:32:24.280Z",
     "latest": true,
-    "error": "Request failed",
+    "error": "Request failed with status code 500",
     "status": "fail"
   },
   "api.yinyuetai": {
     "extension": "api.yinyuetai",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T00:59:57.835Z",
-=======
-    "timestamp": "2024-02-11T01:13:32.216Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:32:25.793Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -122,11 +82,7 @@
   },
   "arabsama.net": {
     "extension": "arabsama.net",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:00:00.226Z",
-=======
-    "timestamp": "2024-02-11T01:13:33.344Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:32:27.686Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -135,21 +91,13 @@
   },
   "asuratoon.com": {
     "extension": "asuratoon.com",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:00:07.382Z",
-=======
-    "timestamp": "2024-02-11T01:13:38.148Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
-    "error": "Request failed",
+    "timestamp": "2024-02-11T01:32:34.808Z",
+    "error": "Request failed with status code 403",
     "status": "fail"
   },
   "baozimh.com": {
     "extension": "baozimh.com",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:00:07.449Z",
-=======
-    "timestamp": "2024-02-11T01:13:38.305Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:32:34.870Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -158,11 +106,7 @@
   },
   "bato.to": {
     "extension": "bato.to",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:00:12.488Z",
-=======
-    "timestamp": "2024-02-11T01:13:41.898Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:32:38.657Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -171,11 +115,7 @@
   },
   "best.light.novel": {
     "extension": "best.light.novel",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:00:13.506Z",
-=======
-    "timestamp": "2024-02-11T01:13:43.109Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:32:39.815Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -184,11 +124,7 @@
   },
   "cc.cooing": {
     "extension": "cc.cooing",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:00:14.988Z",
-=======
-    "timestamp": "2024-02-11T01:13:44.529Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:32:41.495Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -197,11 +133,7 @@
   },
   "client.iptv": {
     "extension": "client.iptv",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:00:18.646Z",
-=======
-    "timestamp": "2024-02-11T01:13:46.848Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:32:44.021Z",
     "latest": true,
     "search": false,
     "detail": true,
@@ -210,11 +142,7 @@
   },
   "club.everia": {
     "extension": "club.everia",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:00:19.016Z",
-=======
-    "timestamp": "2024-02-11T01:13:47.830Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:32:44.339Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -223,21 +151,13 @@
   },
   "club.manga18": {
     "extension": "club.manga18",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:00:21.585Z",
-=======
-    "timestamp": "2024-02-11T01:13:49.841Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
-    "error": "Request failed",
+    "timestamp": "2024-02-11T01:32:46.732Z",
+    "error": "Request failed with status code 403",
     "status": "fail"
   },
   "com.dmzj.www": {
     "extension": "com.dmzj.www",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:00:21.619Z",
-=======
-    "timestamp": "2024-02-11T01:13:49.911Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:32:46.805Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -246,11 +166,7 @@
   },
   "com.freexcomic": {
     "extension": "com.freexcomic",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:00:27.948Z",
-=======
-    "timestamp": "2024-02-11T01:13:53.851Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:32:52.831Z",
     "latest": true,
     "search": false,
     "detail": true,
@@ -259,21 +175,13 @@
   },
   "com.manga18fx": {
     "extension": "com.manga18fx",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:00:30.783Z",
-=======
-    "timestamp": "2024-02-11T01:13:56.696Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:32:53.702Z",
     "error": "Cannot read properties of null (reading '1')",
     "status": "fail"
   },
   "com.olevod.www": {
     "extension": "com.olevod.www",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:00:31.461Z",
-=======
-    "timestamp": "2024-02-11T01:13:57.500Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:32:54.588Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -282,39 +190,26 @@
   },
   "comicextra": {
     "extension": "comicextra",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:00:33.051Z",
-=======
-    "timestamp": "2024-02-11T01:14:00.452Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:32:56.122Z",
     "latest": true,
-    "error": "Request failed",
+    "error": "Request failed with status code 404",
     "status": "fail"
   },
   "comick.app": {
     "extension": "comick.app",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:00:35.068Z",
-=======
-    "timestamp": "2024-02-11T01:14:02.621Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
-    "error": "Request failed",
+    "timestamp": "2024-02-11T01:32:56.866Z",
+    "error": "Request failed with status code 403",
     "status": "fail"
   },
   "comrademao": {
     "extension": "comrademao",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:00:35.104Z",
-=======
-    "timestamp": "2024-02-11T01:14:02.803Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
-    "error": "Request failed",
+    "timestamp": "2024-02-11T01:32:56.931Z",
+    "error": "Request failed with status code 403",
     "status": "fail"
   },
   "dev.0n0.miru.7xi": {
     "extension": "dev.0n0.miru.7xi",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:00:35.147Z",
+    "timestamp": "2024-02-11T01:32:57.048Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -323,16 +218,7 @@
   },
   "draftsex.porn": {
     "extension": "draftsex.porn",
-    "timestamp": "2024-02-11T01:00:39.349Z",
-=======
-    "timestamp": "2024-02-11T01:14:02.969Z",
-    "error": "Request failed",
-    "status": "fail"
-  },
-  "draftsex.porn": {
-    "extension": "draftsex.porn",
-    "timestamp": "2024-02-11T01:15:43.548Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:32:57.945Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -341,21 +227,13 @@
   },
   "dramacool.pa": {
     "extension": "dramacool.pa",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:00:45.648Z",
-=======
-    "timestamp": "2024-02-11T01:15:46.703Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
-    "error": "Request failed",
+    "timestamp": "2024-02-11T01:32:59.974Z",
+    "error": "Request failed with status code 522",
     "status": "fail"
   },
   "eroticmv.com": {
     "extension": "eroticmv.com",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:01:16.591Z",
-=======
-    "timestamp": "2024-02-11T01:16:17.862Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:33:30.896Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -364,43 +242,27 @@
   },
   "filmycab": {
     "extension": "filmycab",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:01:19.608Z",
-=======
-    "timestamp": "2024-02-11T01:16:22.450Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:33:34.104Z",
     "latest": true,
     "search": true,
-    "error": "Request failed",
+    "error": "Request failed with status code 403",
     "status": "fail"
   },
   "filmypunjab.com": {
     "extension": "filmypunjab.com",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:01:20.315Z",
-=======
-    "timestamp": "2024-02-11T01:16:23.385Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
-    "error": "Request failed",
+    "timestamp": "2024-02-11T01:33:35.143Z",
+    "error": "connect ETIMEDOUT 111.90.140.97:443",
     "status": "fail"
   },
   "flamecomics.com": {
     "extension": "flamecomics.com",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:03:29.707Z",
-=======
-    "timestamp": "2024-02-11T01:18:33.745Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
-    "error": "Request failed",
+    "timestamp": "2024-02-11T01:35:45.686Z",
+    "error": "Request failed with status code 403",
     "status": "fail"
   },
   "flixhq.to": {
     "extension": "flixhq.to",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:03:29.820Z",
-=======
-    "timestamp": "2024-02-11T01:18:33.902Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:35:45.771Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -409,11 +271,7 @@
   },
   "gakiarchives.com": {
     "extension": "gakiarchives.com",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:03:32.978Z",
-=======
-    "timestamp": "2024-02-11T01:18:38.939Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:35:49.062Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -422,21 +280,13 @@
   },
   "gimy.su": {
     "extension": "gimy.su",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:03:37.026Z",
-=======
-    "timestamp": "2024-02-11T01:18:45.209Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
-    "error": "Request failed",
+    "timestamp": "2024-02-11T01:35:53.395Z",
+    "error": "Request failed with status code 403",
     "status": "fail"
   },
   "gogo.anime": {
     "extension": "gogo.anime",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:03:37.120Z",
-=======
-    "timestamp": "2024-02-11T01:18:45.271Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:35:53.756Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -445,21 +295,13 @@
   },
   "hanime1.me": {
     "extension": "hanime1.me",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:03:40.813Z",
-=======
-    "timestamp": "2024-02-11T01:18:49.335Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
-    "error": "Request failed",
+    "timestamp": "2024-02-11T01:35:58.287Z",
+    "error": "Request failed with status code 403",
     "status": "fail"
   },
   "hentaidexy.net": {
     "extension": "hentaidexy.net",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:03:40.955Z",
-=======
-    "timestamp": "2024-02-11T01:18:49.454Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:35:58.349Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -468,11 +310,7 @@
   },
   "invidious.io": {
     "extension": "invidious.io",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:03:41.282Z",
-=======
-    "timestamp": "2024-02-11T01:18:52.020Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:35:59.096Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -481,11 +319,7 @@
   },
   "iptv-org": {
     "extension": "iptv-org",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:03:43.657Z",
-=======
-    "timestamp": "2024-02-11T01:18:58.196Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:36:03.520Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -494,21 +328,13 @@
   },
   "isekaiscan.to": {
     "extension": "isekaiscan.to",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:03:43.694Z",
-=======
-    "timestamp": "2024-02-11T01:18:58.407Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
-    "error": "Request failed",
+    "timestamp": "2024-02-11T01:36:03.667Z",
+    "error": "Request failed with status code 403",
     "status": "fail"
   },
   "javhd.icu": {
     "extension": "javhd.icu",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:03:43.816Z",
-=======
-    "timestamp": "2024-02-11T01:18:58.465Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:36:03.743Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -517,11 +343,7 @@
   },
   "javhd.today": {
     "extension": "javhd.today",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:03:46.714Z",
-=======
-    "timestamp": "2024-02-11T01:18:59.784Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:36:05.639Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -530,11 +352,7 @@
   },
   "jisuzy.com": {
     "extension": "jisuzy.com",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:03:48.392Z",
-=======
-    "timestamp": "2024-02-11T01:19:02.032Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:36:08.154Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -543,11 +361,7 @@
   },
   "juxiaoshuo": {
     "extension": "juxiaoshuo",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:03:50.805Z",
-=======
-    "timestamp": "2024-02-11T01:19:03.514Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:36:10.215Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -556,24 +370,16 @@
   },
   "kimcartoon.li": {
     "extension": "kimcartoon.li",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:03:51.873Z",
-=======
-    "timestamp": "2024-02-11T01:19:06.965Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:36:10.648Z",
     "latest": true,
     "search": false,
     "detail": true,
-    "error": "Request failed",
+    "error": "Request failed with status code 403",
     "status": "fail"
   },
   "kissasian.fm": {
     "extension": "kissasian.fm",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:03:54.772Z",
-=======
-    "timestamp": "2024-02-11T01:19:10.304Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:36:14.481Z",
     "latest": true,
     "search": false,
     "detail": true,
@@ -582,11 +388,7 @@
   },
   "kisskh.co": {
     "extension": "kisskh.co",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:03:57.640Z",
-=======
-    "timestamp": "2024-02-11T01:19:13.265Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:36:18.533Z",
     "latest": true,
     "search": false,
     "detail": true,
@@ -595,11 +397,7 @@
   },
   "komikcast.lol": {
     "extension": "komikcast.lol",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:03:58.335Z",
-=======
-    "timestamp": "2024-02-11T01:19:14.117Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:36:19.863Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -608,11 +406,7 @@
   },
   "letv.im": {
     "extension": "letv.im",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:04:01.611Z",
-=======
-    "timestamp": "2024-02-11T01:19:18.416Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:36:22.928Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -621,28 +415,19 @@
   },
   "libvio.pro": {
     "extension": "libvio.pro",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:04:03.715Z",
-=======
-    "timestamp": "2024-02-11T01:19:20.683Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
-    "error": "Request failed",
+    "timestamp": "2024-02-11T01:36:24.231Z",
+    "error": "Request failed with status code 403",
     "status": "fail"
   },
   "lilymanga.net": {
     "extension": "lilymanga.net",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:04:04.249Z",
-=======
-    "timestamp": "2024-02-11T01:19:20.980Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
-    "error": "Request failed",
+    "timestamp": "2024-02-11T01:36:24.734Z",
+    "error": "Request failed with status code 403",
     "status": "fail"
   },
   "lk21official": {
     "extension": "lk21official",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:04:04.307Z",
+    "timestamp": "2024-02-11T01:36:24.824Z",
     "latest": false,
     "search": false,
     "error": "Cannot read properties of undefined (reading 'url')",
@@ -650,30 +435,14 @@
   },
   "manga4life.com": {
     "extension": "manga4life.com",
-    "timestamp": "2024-02-11T01:04:05.631Z",
-=======
-    "timestamp": "2024-02-11T01:19:21.031Z",
-    "latest": true,
-    "search": true,
-    "detail": true,
-    "watch": true,
-    "status": "pass"
-  },
-  "manga4life.com": {
-    "extension": "manga4life.com",
-    "timestamp": "2024-02-11T01:19:24.301Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:36:26.396Z",
     "latest": true,
     "error": "Cannot convert undefined or null to object",
     "status": "fail"
   },
   "mangabat.com": {
     "extension": "mangabat.com",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:04:06.010Z",
-=======
-    "timestamp": "2024-02-11T01:19:24.833Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:36:26.927Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -682,11 +451,7 @@
   },
   "mangacopy.comic": {
     "extension": "mangacopy.comic",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:04:07.398Z",
-=======
-    "timestamp": "2024-02-11T01:19:26.516Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:36:28.548Z",
     "latest": true,
     "search": false,
     "error": "Cannot read properties of undefined (reading 'chapters')",
@@ -694,11 +459,7 @@
   },
   "mangacross.jp": {
     "extension": "mangacross.jp",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:04:08.342Z",
-=======
-    "timestamp": "2024-02-11T01:19:27.320Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:36:29.255Z",
     "latest": true,
     "search": false,
     "detail": true,
@@ -707,11 +468,7 @@
   },
   "mangadex.org": {
     "extension": "mangadex.org",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:04:12.292Z",
-=======
-    "timestamp": "2024-02-11T01:19:30.336Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:36:32.642Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -720,11 +477,7 @@
   },
   "mangakatana.com": {
     "extension": "mangakatana.com",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:04:15.030Z",
-=======
-    "timestamp": "2024-02-11T01:19:31.892Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:36:34.549Z",
     "latest": true,
     "search": false,
     "detail": true,
@@ -733,11 +486,7 @@
   },
   "manganato": {
     "extension": "manganato",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:04:16.938Z",
-=======
-    "timestamp": "2024-02-11T01:19:34.887Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:36:37.164Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -746,11 +495,7 @@
   },
   "manhuagui.com": {
     "extension": "manhuagui.com",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:04:18.138Z",
-=======
-    "timestamp": "2024-02-11T01:19:36.220Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:36:39.157Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -759,11 +504,7 @@
   },
   "me.mikanani": {
     "extension": "me.mikanani",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:04:25.337Z",
-=======
-    "timestamp": "2024-02-11T01:19:41.476Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:36:45.282Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -772,21 +513,13 @@
   },
   "moe.enime": {
     "extension": "moe.enime",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:04:26.398Z",
-=======
-    "timestamp": "2024-02-11T01:19:43.379Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
-    "error": "Request failed",
+    "timestamp": "2024-02-11T01:36:46.614Z",
+    "error": "Request failed with status code 404",
     "status": "fail"
   },
   "moe.wol.wenku8": {
     "extension": "moe.wol.wenku8",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:04:26.780Z",
-=======
-    "timestamp": "2024-02-11T01:19:44.885Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:36:46.872Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -795,11 +528,7 @@
   },
   "monoschinos": {
     "extension": "monoschinos",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:04:31.619Z",
-=======
-    "timestamp": "2024-02-11T01:19:47.588Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:36:49.643Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -808,32 +537,19 @@
   },
   "movieku.lol": {
     "extension": "movieku.lol",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:04:35.156Z",
+    "timestamp": "2024-02-11T01:36:54.218Z",
     "error": "Cannot read properties of null (reading '1')",
-=======
-    "timestamp": "2024-02-11T01:19:51.838Z",
-    "error": "Request failed",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
     "status": "fail"
   },
   "mtlnation.com": {
     "extension": "mtlnation.com",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:04:36.635Z",
-=======
-    "timestamp": "2024-02-11T01:19:51.912Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
-    "error": "Request failed",
+    "timestamp": "2024-02-11T01:36:55.859Z",
+    "error": "Request failed with status code 403",
     "status": "fail"
   },
   "mx.yts": {
     "extension": "mx.yts",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:04:36.742Z",
-=======
-    "timestamp": "2024-02-11T01:19:52.093Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:36:56.053Z",
     "latest": true,
     "search": true,
     "error": "Cannot read properties of undefined (reading 'map')",
@@ -841,11 +557,7 @@
   },
   "myasiantv": {
     "extension": "myasiantv",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:04:39.118Z",
-=======
-    "timestamp": "2024-02-11T01:19:53.734Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:36:57.002Z",
     "latest": true,
     "search": false,
     "detail": true,
@@ -854,11 +566,7 @@
   },
   "netfapx.com": {
     "extension": "netfapx.com",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:04:41.442Z",
-=======
-    "timestamp": "2024-02-11T01:19:56.610Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:37:00.282Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -867,11 +575,7 @@
   },
   "nhentai.to": {
     "extension": "nhentai.to",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:04:44.717Z",
-=======
-    "timestamp": "2024-02-11T01:20:01.229Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:37:03.953Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -880,11 +584,7 @@
   },
   "nimegami.id": {
     "extension": "nimegami.id",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:04:47.428Z",
-=======
-    "timestamp": "2024-02-11T01:20:07.195Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:37:07.171Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -893,22 +593,14 @@
   },
   "nyaa.si": {
     "extension": "nyaa.si",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:04:48.690Z",
-=======
-    "timestamp": "2024-02-11T01:20:08.344Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:37:08.784Z",
     "latest": true,
     "error": "Cannot read properties of undefined (reading 'sort_by')",
     "status": "fail"
   },
   "omegascans.org": {
     "extension": "omegascans.org",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:04:49.044Z",
-=======
-    "timestamp": "2024-02-11T01:20:09.209Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:37:09.392Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -917,21 +609,13 @@
   },
   "onejav.com": {
     "extension": "onejav.com",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:04:49.808Z",
-=======
-    "timestamp": "2024-02-11T01:20:10.216Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
-    "error": "Request failed",
+    "timestamp": "2024-02-11T01:37:10.348Z",
+    "error": "Request failed with status code 403",
     "status": "fail"
   },
   "p7av.com": {
     "extension": "p7av.com",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:04:49.853Z",
-=======
-    "timestamp": "2024-02-11T01:20:10.379Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:37:10.444Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -940,21 +624,13 @@
   },
   "piped.video": {
     "extension": "piped.video",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:04:57.930Z",
-=======
-    "timestamp": "2024-02-11T01:20:11.277Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:37:11.240Z",
     "error": "res.map is not a function",
     "status": "fail"
   },
   "pornenix.com": {
     "extension": "pornenix.com",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:04:58.037Z",
-=======
-    "timestamp": "2024-02-11T01:20:11.366Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:37:11.505Z",
     "latest": true,
     "search": true,
     "error": "Cannot read properties of null (reading '1')",
@@ -962,11 +638,7 @@
   },
   "porntrex.com": {
     "extension": "porntrex.com",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:05:00.292Z",
-=======
-    "timestamp": "2024-02-11T01:20:14.197Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:37:21.041Z",
     "latest": true,
     "search": false,
     "detail": true,
@@ -975,11 +647,7 @@
   },
   "pornxp.com": {
     "extension": "pornxp.com",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:05:01.524Z",
-=======
-    "timestamp": "2024-02-11T01:20:16.881Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:37:22.507Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -988,11 +656,7 @@
   },
   "ravenscans.com": {
     "extension": "ravenscans.com",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:05:04.979Z",
-=======
-    "timestamp": "2024-02-11T01:20:19.784Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:37:26.053Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -1001,11 +665,7 @@
   },
   "rawkuma.com": {
     "extension": "rawkuma.com",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:05:06.879Z",
-=======
-    "timestamp": "2024-02-11T01:20:26.464Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:37:28.200Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -1014,11 +674,7 @@
   },
   "readcomicsonline.ru": {
     "extension": "readcomicsonline.ru",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:05:09.521Z",
-=======
-    "timestamp": "2024-02-11T01:20:30.074Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:37:31.853Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -1027,22 +683,14 @@
   },
   "readlightnovels": {
     "extension": "readlightnovels",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:05:14.500Z",
-=======
-    "timestamp": "2024-02-11T01:20:32.023Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:37:34.091Z",
     "latest": true,
-    "error": "Request failed",
+    "error": "Request failed with status code 402",
     "status": "fail"
   },
   "ren.0u0.miru.mfxs": {
     "extension": "ren.0u0.miru.mfxs",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:05:14.946Z",
-=======
-    "timestamp": "2024-02-11T01:20:33.187Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:37:34.616Z",
     "latest": true,
     "search": false,
     "detail": true,
@@ -1051,11 +699,7 @@
   },
   "rip.acg": {
     "extension": "rip.acg",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:05:16.291Z",
-=======
-    "timestamp": "2024-02-11T01:20:36.081Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:37:35.329Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -1064,11 +708,7 @@
   },
   "royalroad.com": {
     "extension": "royalroad.com",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:05:17.477Z",
-=======
-    "timestamp": "2024-02-11T01:20:37.806Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:37:36.692Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -1077,21 +717,13 @@
   },
   "sakura": {
     "extension": "sakura",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:05:18.573Z",
-=======
-    "timestamp": "2024-02-11T01:20:39.093Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:37:38.168Z",
     "error": "Empty sub-selector",
     "status": "fail"
   },
   "sflix.to": {
     "extension": "sflix.to",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:05:18.945Z",
-=======
-    "timestamp": "2024-02-11T01:20:40.223Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:37:38.381Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -1100,38 +732,19 @@
   },
   "simplyhentai.com": {
     "extension": "simplyhentai.com",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:05:22.098Z",
-=======
-    "timestamp": "2024-02-11T01:20:45.213Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
-    "error": "Request failed",
+    "timestamp": "2024-02-11T01:37:43.025Z",
+    "error": "Request failed with status code 403",
     "status": "fail"
   },
   "stream.mkvdrama.org": {
     "extension": "stream.mkvdrama.org",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:05:22.351Z",
-=======
-    "timestamp": "2024-02-11T01:20:45.479Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
-    "error": "Request failed",
+    "timestamp": "2024-02-11T01:37:43.166Z",
+    "error": "Request failed with status code 403",
     "status": "fail"
   },
   "sunporno.com": {
     "extension": "sunporno.com",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:05:22.379Z",
-    "latest": false,
-    "search": false,
-    "error": "Cannot read properties of undefined (reading 'url')",
-    "status": "fail"
-  },
-  "supercartoons.net": {
-    "extension": "supercartoons.net",
-    "timestamp": "2024-02-11T01:05:22.487Z",
-=======
-    "timestamp": "2024-02-11T01:20:45.569Z",
+    "timestamp": "2024-02-11T01:37:43.348Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -1140,8 +753,7 @@
   },
   "supercartoons.net": {
     "extension": "supercartoons.net",
-    "timestamp": "2024-02-11T01:20:47.539Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:37:44.084Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -1150,11 +762,7 @@
   },
   "tamilyogi": {
     "extension": "tamilyogi",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:05:24.905Z",
-=======
-    "timestamp": "2024-02-11T01:20:50.326Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:37:46.942Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -1163,11 +771,7 @@
   },
   "taotu": {
     "extension": "taotu",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:05:28.130Z",
-=======
-    "timestamp": "2024-02-11T01:20:53.770Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:37:51.288Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -1176,44 +780,28 @@
   },
   "teamxnovel.com": {
     "extension": "teamxnovel.com",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:05:29.420Z",
-=======
-    "timestamp": "2024-02-11T01:20:56.400Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
-    "error": "Request failed",
+    "timestamp": "2024-02-11T01:37:52.427Z",
+    "error": "Request failed with status code 403",
     "status": "fail"
   },
   "themoviearchive": {
     "extension": "themoviearchive",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:05:29.474Z",
-=======
-    "timestamp": "2024-02-11T01:20:56.574Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:37:52.542Z",
     "latest": true,
     "search": true,
     "detail": true,
-    "error": "Request failed",
-    "status": "fail"
+    "watch": true,
+    "status": "pass"
   },
   "top.lkp2.www": {
     "extension": "top.lkp2.www",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:05:40.922Z",
-=======
-    "timestamp": "2024-02-11T01:21:00.680Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
-    "error": "Request failed",
+    "timestamp": "2024-02-11T01:37:58.837Z",
+    "error": "getaddrinfo ENOTFOUND www.lkp2.top",
     "status": "fail"
   },
   "topcartoons.tv": {
     "extension": "topcartoons.tv",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:05:41.355Z",
-=======
-    "timestamp": "2024-02-11T01:21:00.864Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:37:59.179Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -1222,11 +810,7 @@
   },
   "truyen.net": {
     "extension": "truyen.net",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:05:44.946Z",
-=======
-    "timestamp": "2024-02-11T01:21:04.890Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:38:02.973Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -1235,21 +819,13 @@
   },
   "turkish123": {
     "extension": "turkish123",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:05:49.741Z",
-=======
-    "timestamp": "2024-02-11T01:21:07.632Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
-    "error": "Request failed",
+    "timestamp": "2024-02-11T01:38:09.019Z",
+    "error": "Request failed with status code 403",
     "status": "fail"
   },
   "unimay.media": {
     "extension": "unimay.media",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:05:49.930Z",
-=======
-    "timestamp": "2024-02-11T01:21:07.748Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:38:09.091Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -1258,11 +834,7 @@
   },
   "vn.tangthuvien": {
     "extension": "vn.tangthuvien",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:05:50.493Z",
-=======
-    "timestamp": "2024-02-11T01:21:08.593Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:38:10.397Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -1271,11 +843,7 @@
   },
   "vod.api.json.collection": {
     "extension": "vod.api.json.collection",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:05:56.958Z",
-=======
-    "timestamp": "2024-02-11T01:21:12.988Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:38:15.945Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -1284,11 +852,7 @@
   },
   "vod.api.json.collection18": {
     "extension": "vod.api.json.collection18",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:05:57.831Z",
-=======
-    "timestamp": "2024-02-11T01:21:14.732Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:38:16.734Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -1297,21 +861,13 @@
   },
   "windmill": {
     "extension": "windmill",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:05:58.104Z",
-=======
-    "timestamp": "2024-02-11T01:21:15.500Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:38:16.850Z",
     "error": "Empty sub-selector",
     "status": "fail"
   },
   "wnacg.com": {
     "extension": "wnacg.com",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:05:58.590Z",
-=======
-    "timestamp": "2024-02-11T01:21:16.629Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:38:16.985Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -1320,11 +876,7 @@
   },
   "wnmtl.org": {
     "extension": "wnmtl.org",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:05:59.368Z",
-=======
-    "timestamp": "2024-02-11T01:21:17.685Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:38:17.568Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -1333,11 +885,7 @@
   },
   "wtr-lab.com": {
     "extension": "wtr-lab.com",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:05:59.805Z",
-=======
-    "timestamp": "2024-02-11T01:21:21.380Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:38:18.822Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -1346,25 +894,14 @@
   },
   "xhamster.com": {
     "extension": "xhamster.com",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:06:00.877Z",
-    "latest": false,
-    "search": false,
-    "error": "Cannot read properties of undefined (reading 'url')",
-=======
-    "timestamp": "2024-02-11T01:21:22.818Z",
+    "timestamp": "2024-02-11T01:38:20.338Z",
     "latest": true,
-    "error": "Request failed",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "error": "Request failed with status code 404",
     "status": "fail"
   },
   "xnxx.com": {
     "extension": "xnxx.com",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:06:01.719Z",
-=======
-    "timestamp": "2024-02-11T01:21:24.656Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:38:22.199Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -1373,11 +910,7 @@
   },
   "xvideos.com": {
     "extension": "xvideos.com",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:06:04.202Z",
-=======
-    "timestamp": "2024-02-11T01:21:27.035Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:38:25.484Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -1386,11 +919,7 @@
   },
   "xyz.xdtv2": {
     "extension": "xyz.xdtv2",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:06:05.518Z",
-=======
-    "timestamp": "2024-02-11T01:21:28.706Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:38:27.249Z",
     "latest": true,
     "search": true,
     "detail": true,
@@ -1399,31 +928,19 @@
   },
   "yomovies": {
     "extension": "yomovies",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:06:06.657Z",
-=======
-    "timestamp": "2024-02-11T01:21:30.844Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
-    "error": "Request failed",
+    "timestamp": "2024-02-11T01:38:27.744Z",
+    "error": "Request failed with status code 403",
     "status": "fail"
   },
   "yurineko.net": {
     "extension": "yurineko.net",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:06:06.968Z",
-=======
-    "timestamp": "2024-02-11T01:21:30.915Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
-    "error": "Request failed",
+    "timestamp": "2024-02-11T01:38:27.990Z",
+    "error": "Request failed with status code 403",
     "status": "fail"
   },
   "zeroscans.com": {
     "extension": "zeroscans.com",
-<<<<<<< HEAD
-    "timestamp": "2024-02-11T01:06:07.021Z",
-=======
-    "timestamp": "2024-02-11T01:21:31.105Z",
->>>>>>> b9d956c (Refactor error handling in extension.js and req.js)
+    "timestamp": "2024-02-11T01:38:28.114Z",
     "latest": true,
     "search": true,
     "detail": true,
