@@ -16,3 +16,4 @@ node_modules
 # misc
 .DS_Store
 lib/settings.db.json
+logs/

@@ -2,8 +2,7 @@
   "name": "miru-test",
   "type": "module",
   "scripts": {
-    "test": "bun lib/index.js",
-    "test:dynamic": "jest tests/dynamic.test.js"
+    "test": "node lib/index.js"
   },
   "devDependencies": {
     "jest": "^29.7.0"
