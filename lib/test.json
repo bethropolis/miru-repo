@@ -1,1 +1,950 @@
-{}
+{
+  "9animetv.to": {
+    "extension": "9animetv.to",
+    "timestamp": "2024-02-11T00:59:40.332Z",
+    "latest": true,
+    "error": "Cannot convert undefined or null to object",
+    "status": "fail"
+  },
+  "agedm.org": {
+    "extension": "agedm.org",
+    "timestamp": "2024-02-11T00:59:41.209Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "ani.gogo": {
+    "extension": "ani.gogo",
+    "timestamp": "2024-02-11T00:59:43.325Z",
+    "latest": true,
+    "search": false,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "ani.watch": {
+    "extension": "ani.watch",
+    "timestamp": "2024-02-11T00:59:46.573Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "anime.flv": {
+    "extension": "anime.flv",
+    "timestamp": "2024-02-11T00:59:49.500Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "anime.girigirilove.com": {
+    "extension": "anime.girigirilove.com",
+    "timestamp": "2024-02-11T00:59:52.877Z",
+    "error": "Request failed",
+    "status": "fail"
+  },
+  "animeazu.com": {
+    "extension": "animeazu.com",
+    "timestamp": "2024-02-11T00:59:53.034Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "error": "Cannot read properties of null (reading '1')",
+    "status": "fail"
+  },
+  "animepahe.ru": {
+    "extension": "animepahe.ru",
+    "timestamp": "2024-02-11T00:59:56.150Z",
+    "latest": true,
+    "error": "Request failed",
+    "status": "fail"
+  },
+  "animxer.xyz": {
+    "extension": "animxer.xyz",
+    "timestamp": "2024-02-11T00:59:56.701Z",
+    "latest": true,
+    "error": "Request failed",
+    "status": "fail"
+  },
+  "api.yinyuetai": {
+    "extension": "api.yinyuetai",
+    "timestamp": "2024-02-11T00:59:57.835Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "arabsama.net": {
+    "extension": "arabsama.net",
+    "timestamp": "2024-02-11T01:00:00.226Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "error": "Cannot read properties of null (reading '1')",
+    "status": "fail"
+  },
+  "asuratoon.com": {
+    "extension": "asuratoon.com",
+    "timestamp": "2024-02-11T01:00:07.382Z",
+    "error": "Request failed",
+    "status": "fail"
+  },
+  "baozimh.com": {
+    "extension": "baozimh.com",
+    "timestamp": "2024-02-11T01:00:07.449Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "error": "Cannot read properties of null (reading 'map')",
+    "status": "fail"
+  },
+  "bato.to": {
+    "extension": "bato.to",
+    "timestamp": "2024-02-11T01:00:12.488Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "best.light.novel": {
+    "extension": "best.light.novel",
+    "timestamp": "2024-02-11T01:00:13.506Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "cc.cooing": {
+    "extension": "cc.cooing",
+    "timestamp": "2024-02-11T01:00:14.988Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "client.iptv": {
+    "extension": "client.iptv",
+    "timestamp": "2024-02-11T01:00:18.646Z",
+    "latest": true,
+    "search": false,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "club.everia": {
+    "extension": "club.everia",
+    "timestamp": "2024-02-11T01:00:19.016Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "club.manga18": {
+    "extension": "club.manga18",
+    "timestamp": "2024-02-11T01:00:21.585Z",
+    "error": "Request failed",
+    "status": "fail"
+  },
+  "com.dmzj.www": {
+    "extension": "com.dmzj.www",
+    "timestamp": "2024-02-11T01:00:21.619Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "com.freexcomic": {
+    "extension": "com.freexcomic",
+    "timestamp": "2024-02-11T01:00:27.948Z",
+    "latest": true,
+    "search": false,
+    "detail": true,
+    "error": "Cannot read properties of undefined (reading 'url')",
+    "status": "fail"
+  },
+  "com.manga18fx": {
+    "extension": "com.manga18fx",
+    "timestamp": "2024-02-11T01:00:30.783Z",
+    "error": "Cannot read properties of null (reading '1')",
+    "status": "fail"
+  },
+  "com.olevod.www": {
+    "extension": "com.olevod.www",
+    "timestamp": "2024-02-11T01:00:31.461Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "comicextra": {
+    "extension": "comicextra",
+    "timestamp": "2024-02-11T01:00:33.051Z",
+    "latest": true,
+    "error": "Request failed",
+    "status": "fail"
+  },
+  "comick.app": {
+    "extension": "comick.app",
+    "timestamp": "2024-02-11T01:00:35.068Z",
+    "error": "Request failed",
+    "status": "fail"
+  },
+  "comrademao": {
+    "extension": "comrademao",
+    "timestamp": "2024-02-11T01:00:35.104Z",
+    "error": "Request failed",
+    "status": "fail"
+  },
+  "dev.0n0.miru.7xi": {
+    "extension": "dev.0n0.miru.7xi",
+    "timestamp": "2024-02-11T01:00:35.147Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "draftsex.porn": {
+    "extension": "draftsex.porn",
+    "timestamp": "2024-02-11T01:00:39.349Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "dramacool.pa": {
+    "extension": "dramacool.pa",
+    "timestamp": "2024-02-11T01:00:45.648Z",
+    "error": "Request failed",
+    "status": "fail"
+  },
+  "eroticmv.com": {
+    "extension": "eroticmv.com",
+    "timestamp": "2024-02-11T01:01:16.591Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "filmycab": {
+    "extension": "filmycab",
+    "timestamp": "2024-02-11T01:01:19.608Z",
+    "latest": true,
+    "search": true,
+    "error": "Request failed",
+    "status": "fail"
+  },
+  "filmypunjab.com": {
+    "extension": "filmypunjab.com",
+    "timestamp": "2024-02-11T01:01:20.315Z",
+    "error": "Request failed",
+    "status": "fail"
+  },
+  "flamecomics.com": {
+    "extension": "flamecomics.com",
+    "timestamp": "2024-02-11T01:03:29.707Z",
+    "error": "Request failed",
+    "status": "fail"
+  },
+  "flixhq.to": {
+    "extension": "flixhq.to",
+    "timestamp": "2024-02-11T01:03:29.820Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "gakiarchives.com": {
+    "extension": "gakiarchives.com",
+    "timestamp": "2024-02-11T01:03:32.978Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "gimy.su": {
+    "extension": "gimy.su",
+    "timestamp": "2024-02-11T01:03:37.026Z",
+    "error": "Request failed",
+    "status": "fail"
+  },
+  "gogo.anime": {
+    "extension": "gogo.anime",
+    "timestamp": "2024-02-11T01:03:37.120Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "hanime1.me": {
+    "extension": "hanime1.me",
+    "timestamp": "2024-02-11T01:03:40.813Z",
+    "error": "Request failed",
+    "status": "fail"
+  },
+  "hentaidexy.net": {
+    "extension": "hentaidexy.net",
+    "timestamp": "2024-02-11T01:03:40.955Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "invidious.io": {
+    "extension": "invidious.io",
+    "timestamp": "2024-02-11T01:03:41.282Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "iptv-org": {
+    "extension": "iptv-org",
+    "timestamp": "2024-02-11T01:03:43.657Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "isekaiscan.to": {
+    "extension": "isekaiscan.to",
+    "timestamp": "2024-02-11T01:03:43.694Z",
+    "error": "Request failed",
+    "status": "fail"
+  },
+  "javhd.icu": {
+    "extension": "javhd.icu",
+    "timestamp": "2024-02-11T01:03:43.816Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "javhd.today": {
+    "extension": "javhd.today",
+    "timestamp": "2024-02-11T01:03:46.714Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "jisuzy.com": {
+    "extension": "jisuzy.com",
+    "timestamp": "2024-02-11T01:03:48.392Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "juxiaoshuo": {
+    "extension": "juxiaoshuo",
+    "timestamp": "2024-02-11T01:03:50.805Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "kimcartoon.li": {
+    "extension": "kimcartoon.li",
+    "timestamp": "2024-02-11T01:03:51.873Z",
+    "latest": true,
+    "search": false,
+    "detail": true,
+    "error": "Request failed",
+    "status": "fail"
+  },
+  "kissasian.fm": {
+    "extension": "kissasian.fm",
+    "timestamp": "2024-02-11T01:03:54.772Z",
+    "latest": true,
+    "search": false,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "kisskh.co": {
+    "extension": "kisskh.co",
+    "timestamp": "2024-02-11T01:03:57.640Z",
+    "latest": true,
+    "search": false,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "komikcast.lol": {
+    "extension": "komikcast.lol",
+    "timestamp": "2024-02-11T01:03:58.335Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "letv.im": {
+    "extension": "letv.im",
+    "timestamp": "2024-02-11T01:04:01.611Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "libvio.pro": {
+    "extension": "libvio.pro",
+    "timestamp": "2024-02-11T01:04:03.715Z",
+    "error": "Request failed",
+    "status": "fail"
+  },
+  "lilymanga.net": {
+    "extension": "lilymanga.net",
+    "timestamp": "2024-02-11T01:04:04.249Z",
+    "error": "Request failed",
+    "status": "fail"
+  },
+  "lk21official": {
+    "extension": "lk21official",
+    "timestamp": "2024-02-11T01:04:04.307Z",
+    "latest": false,
+    "search": false,
+    "error": "Cannot read properties of undefined (reading 'url')",
+    "status": "fail"
+  },
+  "manga4life.com": {
+    "extension": "manga4life.com",
+    "timestamp": "2024-02-11T01:04:05.631Z",
+    "latest": true,
+    "error": "Cannot convert undefined or null to object",
+    "status": "fail"
+  },
+  "mangabat.com": {
+    "extension": "mangabat.com",
+    "timestamp": "2024-02-11T01:04:06.010Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "mangacopy.comic": {
+    "extension": "mangacopy.comic",
+    "timestamp": "2024-02-11T01:04:07.398Z",
+    "latest": true,
+    "search": false,
+    "error": "Cannot read properties of undefined (reading 'chapters')",
+    "status": "fail"
+  },
+  "mangacross.jp": {
+    "extension": "mangacross.jp",
+    "timestamp": "2024-02-11T01:04:08.342Z",
+    "latest": true,
+    "search": false,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "mangadex.org": {
+    "extension": "mangadex.org",
+    "timestamp": "2024-02-11T01:04:12.292Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "mangakatana.com": {
+    "extension": "mangakatana.com",
+    "timestamp": "2024-02-11T01:04:15.030Z",
+    "latest": true,
+    "search": false,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "manganato": {
+    "extension": "manganato",
+    "timestamp": "2024-02-11T01:04:16.938Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "manhuagui.com": {
+    "extension": "manhuagui.com",
+    "timestamp": "2024-02-11T01:04:18.138Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "me.mikanani": {
+    "extension": "me.mikanani",
+    "timestamp": "2024-02-11T01:04:25.337Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "moe.enime": {
+    "extension": "moe.enime",
+    "timestamp": "2024-02-11T01:04:26.398Z",
+    "error": "Request failed",
+    "status": "fail"
+  },
+  "moe.wol.wenku8": {
+    "extension": "moe.wol.wenku8",
+    "timestamp": "2024-02-11T01:04:26.780Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "monoschinos": {
+    "extension": "monoschinos",
+    "timestamp": "2024-02-11T01:04:31.619Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "movieku.lol": {
+    "extension": "movieku.lol",
+    "timestamp": "2024-02-11T01:04:35.156Z",
+    "error": "Cannot read properties of null (reading '1')",
+    "status": "fail"
+  },
+  "mtlnation.com": {
+    "extension": "mtlnation.com",
+    "timestamp": "2024-02-11T01:04:36.635Z",
+    "error": "Request failed",
+    "status": "fail"
+  },
+  "mx.yts": {
+    "extension": "mx.yts",
+    "timestamp": "2024-02-11T01:04:36.742Z",
+    "latest": true,
+    "search": true,
+    "error": "Cannot read properties of undefined (reading 'map')",
+    "status": "fail"
+  },
+  "myasiantv": {
+    "extension": "myasiantv",
+    "timestamp": "2024-02-11T01:04:39.118Z",
+    "latest": true,
+    "search": false,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "netfapx.com": {
+    "extension": "netfapx.com",
+    "timestamp": "2024-02-11T01:04:41.442Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "nhentai.to": {
+    "extension": "nhentai.to",
+    "timestamp": "2024-02-11T01:04:44.717Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "nimegami.id": {
+    "extension": "nimegami.id",
+    "timestamp": "2024-02-11T01:04:47.428Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "error": "Cannot read properties of null (reading '1')",
+    "status": "fail"
+  },
+  "nyaa.si": {
+    "extension": "nyaa.si",
+    "timestamp": "2024-02-11T01:04:48.690Z",
+    "latest": true,
+    "error": "Cannot read properties of undefined (reading 'sort_by')",
+    "status": "fail"
+  },
+  "omegascans.org": {
+    "extension": "omegascans.org",
+    "timestamp": "2024-02-11T01:04:49.044Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "onejav.com": {
+    "extension": "onejav.com",
+    "timestamp": "2024-02-11T01:04:49.808Z",
+    "error": "Request failed",
+    "status": "fail"
+  },
+  "p7av.com": {
+    "extension": "p7av.com",
+    "timestamp": "2024-02-11T01:04:49.853Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "piped.video": {
+    "extension": "piped.video",
+    "timestamp": "2024-02-11T01:04:57.930Z",
+    "error": "res.map is not a function",
+    "status": "fail"
+  },
+  "pornenix.com": {
+    "extension": "pornenix.com",
+    "timestamp": "2024-02-11T01:04:58.037Z",
+    "latest": true,
+    "search": true,
+    "error": "Cannot read properties of null (reading '1')",
+    "status": "fail"
+  },
+  "porntrex.com": {
+    "extension": "porntrex.com",
+    "timestamp": "2024-02-11T01:05:00.292Z",
+    "latest": true,
+    "search": false,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "pornxp.com": {
+    "extension": "pornxp.com",
+    "timestamp": "2024-02-11T01:05:01.524Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "ravenscans.com": {
+    "extension": "ravenscans.com",
+    "timestamp": "2024-02-11T01:05:04.979Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "rawkuma.com": {
+    "extension": "rawkuma.com",
+    "timestamp": "2024-02-11T01:05:06.879Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "readcomicsonline.ru": {
+    "extension": "readcomicsonline.ru",
+    "timestamp": "2024-02-11T01:05:09.521Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "readlightnovels": {
+    "extension": "readlightnovels",
+    "timestamp": "2024-02-11T01:05:14.500Z",
+    "latest": true,
+    "error": "Request failed",
+    "status": "fail"
+  },
+  "ren.0u0.miru.mfxs": {
+    "extension": "ren.0u0.miru.mfxs",
+    "timestamp": "2024-02-11T01:05:14.946Z",
+    "latest": true,
+    "search": false,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "rip.acg": {
+    "extension": "rip.acg",
+    "timestamp": "2024-02-11T01:05:16.291Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "royalroad.com": {
+    "extension": "royalroad.com",
+    "timestamp": "2024-02-11T01:05:17.477Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "sakura": {
+    "extension": "sakura",
+    "timestamp": "2024-02-11T01:05:18.573Z",
+    "error": "Empty sub-selector",
+    "status": "fail"
+  },
+  "sflix.to": {
+    "extension": "sflix.to",
+    "timestamp": "2024-02-11T01:05:18.945Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "simplyhentai.com": {
+    "extension": "simplyhentai.com",
+    "timestamp": "2024-02-11T01:05:22.098Z",
+    "error": "Request failed",
+    "status": "fail"
+  },
+  "stream.mkvdrama.org": {
+    "extension": "stream.mkvdrama.org",
+    "timestamp": "2024-02-11T01:05:22.351Z",
+    "error": "Request failed",
+    "status": "fail"
+  },
+  "sunporno.com": {
+    "extension": "sunporno.com",
+    "timestamp": "2024-02-11T01:05:22.379Z",
+    "latest": false,
+    "search": false,
+    "error": "Cannot read properties of undefined (reading 'url')",
+    "status": "fail"
+  },
+  "supercartoons.net": {
+    "extension": "supercartoons.net",
+    "timestamp": "2024-02-11T01:05:22.487Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "tamilyogi": {
+    "extension": "tamilyogi",
+    "timestamp": "2024-02-11T01:05:24.905Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "taotu": {
+    "extension": "taotu",
+    "timestamp": "2024-02-11T01:05:28.130Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "teamxnovel.com": {
+    "extension": "teamxnovel.com",
+    "timestamp": "2024-02-11T01:05:29.420Z",
+    "error": "Request failed",
+    "status": "fail"
+  },
+  "themoviearchive": {
+    "extension": "themoviearchive",
+    "timestamp": "2024-02-11T01:05:29.474Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "error": "Request failed",
+    "status": "fail"
+  },
+  "top.lkp2.www": {
+    "extension": "top.lkp2.www",
+    "timestamp": "2024-02-11T01:05:40.922Z",
+    "error": "Request failed",
+    "status": "fail"
+  },
+  "topcartoons.tv": {
+    "extension": "topcartoons.tv",
+    "timestamp": "2024-02-11T01:05:41.355Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "truyen.net": {
+    "extension": "truyen.net",
+    "timestamp": "2024-02-11T01:05:44.946Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "turkish123": {
+    "extension": "turkish123",
+    "timestamp": "2024-02-11T01:05:49.741Z",
+    "error": "Request failed",
+    "status": "fail"
+  },
+  "unimay.media": {
+    "extension": "unimay.media",
+    "timestamp": "2024-02-11T01:05:49.930Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "vn.tangthuvien": {
+    "extension": "vn.tangthuvien",
+    "timestamp": "2024-02-11T01:05:50.493Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "vod.api.json.collection": {
+    "extension": "vod.api.json.collection",
+    "timestamp": "2024-02-11T01:05:56.958Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "vod.api.json.collection18": {
+    "extension": "vod.api.json.collection18",
+    "timestamp": "2024-02-11T01:05:57.831Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "windmill": {
+    "extension": "windmill",
+    "timestamp": "2024-02-11T01:05:58.104Z",
+    "error": "Empty sub-selector",
+    "status": "fail"
+  },
+  "wnacg.com": {
+    "extension": "wnacg.com",
+    "timestamp": "2024-02-11T01:05:58.590Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "wnmtl.org": {
+    "extension": "wnmtl.org",
+    "timestamp": "2024-02-11T01:05:59.368Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "wtr-lab.com": {
+    "extension": "wtr-lab.com",
+    "timestamp": "2024-02-11T01:05:59.805Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "xhamster.com": {
+    "extension": "xhamster.com",
+    "timestamp": "2024-02-11T01:06:00.877Z",
+    "latest": false,
+    "search": false,
+    "error": "Cannot read properties of undefined (reading 'url')",
+    "status": "fail"
+  },
+  "xnxx.com": {
+    "extension": "xnxx.com",
+    "timestamp": "2024-02-11T01:06:01.719Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "xvideos.com": {
+    "extension": "xvideos.com",
+    "timestamp": "2024-02-11T01:06:04.202Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "xyz.xdtv2": {
+    "extension": "xyz.xdtv2",
+    "timestamp": "2024-02-11T01:06:05.518Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  },
+  "yomovies": {
+    "extension": "yomovies",
+    "timestamp": "2024-02-11T01:06:06.657Z",
+    "error": "Request failed",
+    "status": "fail"
+  },
+  "yurineko.net": {
+    "extension": "yurineko.net",
+    "timestamp": "2024-02-11T01:06:06.968Z",
+    "error": "Request failed",
+    "status": "fail"
+  },
+  "zeroscans.com": {
+    "extension": "zeroscans.com",
+    "timestamp": "2024-02-11T01:06:07.021Z",
+    "latest": true,
+    "search": true,
+    "detail": true,
+    "watch": true,
+    "status": "pass"
+  }
+}
