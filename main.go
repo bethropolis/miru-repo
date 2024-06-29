@@ -31,7 +31,7 @@ func main() {
 	}
 	f.Write(b)
 
-	f2, err2 := os.Create("Monitor.md")
+	f2, err2 := os.Create("README.md")
 	if err2 != nil {
 		log.Fatal(err)
 	}
