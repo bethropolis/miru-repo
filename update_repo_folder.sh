@@ -3,6 +3,9 @@
 # Ensure the script stops on any error
 set -e
 
+#add upstream remote
+git remote add upstream https://github.com/miru-project/repo.git
+
 
 # Switch to the main branch and pull the latest changes
 git fetch upstream
