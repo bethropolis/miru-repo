@@ -1,15 +1,14 @@
 name: Go
 
 on:
-  push:
-    branches: [ "monitor" ]
+  schedule:
+    - cron: '0 12 * * *'  # Runs at 12:00 PM every day
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
-
     - name: Cache Node modules
       uses: actions/cache@v3
       with:
@@ -19,13 +18,11 @@ jobs:
         key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
         restore-keys: |
           ${{ runner.os }}-node-
-
     - name: Set up Node.js
       uses: actions/setup-node@v4
       with:
         node-version: 'latest'
     
-
     - name: pull upstream updates
       run: |
         bash  update_repo_folder.sh
@@ -35,7 +32,6 @@ jobs:
     
     - name: test extensions
       run: node lib/index.js
-
     - name: Cache Go modules
       uses: actions/cache@v3
       with:
@@ -45,12 +41,10 @@ jobs:
         key: ${{ runner.os }}-go-${{ hashFiles('**/go.sum') }}
         restore-keys: |
           ${{ runner.os }}-go-
-
     - name: Set up Go
       uses: actions/setup-go@v3
       with:
         go-version: 1.19
-
     - name: Generage
       run: go run ./...
       
