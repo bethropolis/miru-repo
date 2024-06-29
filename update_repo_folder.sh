@@ -3,9 +3,10 @@
 # Ensure the script stops on any error
 set -e
 
+git pull origin main
+
 # Switch to the main branch and pull the latest changes
 git checkout main
-git pull origin main
 
 # Copy the repo/ directory to a temporary location
 cp -r repo/ /tmp/repo_backup
