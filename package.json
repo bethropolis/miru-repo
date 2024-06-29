@@ -1,0 +1,20 @@
+{
+  "name": "miru-test",
+  "type": "module",
+  "scripts": {
+    "test": "node lib/index.js"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "axios": "^1.6.5",
+    "chalk": "^5.3.0",
+    "cheerio": "^1.0.0-rc.12",
+    "crypto-js": "^4.2.0",
+    "js-md5": "^0.8.3",
+    "jsencrypt": "^3.3.2",
+    "node-jsencrypt": "^1.0.0",
+    "piscina": "^4.5.1"
+  }
+}
