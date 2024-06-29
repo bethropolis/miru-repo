@@ -3,6 +3,11 @@
 
 Miru extensions repository | [Miru App Download](https://github.com/miru-project/miru-app) |
 
+[![Total - 117](https://img.shields.io/static/v1?label=Total&message=117&style=for-the-badge&labelColor=0077b6&color=0077b6)](#)
+[![passed - 68](https://img.shields.io/static/v1?label=Passed&message=68&style=for-the-badge&labelColor=38b000&color=38b000)](#)
+[![failed - 49](https://img.shields.io/static/v1?label=Failed&message=49&style=for-the-badge&labelColor=da1e37&color=da1e37)](#)
+
+
 ## List
 |  Name   | Package | Version | Author | Language | Type | Test | Source |
 |  ----   | ---- | --- | ---  | ---  | --- | --- | --- |
