@@ -21,7 +21,6 @@ mv /tmp/repo_backup repo/
 
 # Stage and commit the changes
 git add repo/
-git commit -m "Merged changes from main branch in the repo/ folder"
 
 # Clean up the temporary backup directory
 rm -rf /tmp/repo_backup
