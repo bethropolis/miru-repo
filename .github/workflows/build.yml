@@ -30,7 +30,6 @@ jobs:
       run: |
         git remote add upstream https://github.com/miru-project/repo.git
         git fetch upstream
-        git checkout monitor
         git rebase upstream/main
 
     - name: Install dependencies
