@@ -6,7 +6,7 @@ set -e
 # Switch to the main branch and pull the latest changes
 git fetch origin
 git checkout main
-git pull origin main
+git pull upstream main --rebase
 
 
 # Copy the repo/ directory to a temporary location
