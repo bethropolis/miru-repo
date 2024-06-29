@@ -1616,7 +1616,7 @@
  },
  {
   "author": "OshekharO",
-  "icon": "https://yomovies.town/wp-content/uploads/2023/12/120.jpg",
+  "icon": "https://yomovies.loan/wp-content/uploads/2023/12/120.jpg",
   "lang": "hi",
   "license": "MIT",
   "name": "YoMovies",
@@ -1624,8 +1624,21 @@
   "package": "yomovies",
   "type": "bangumi",
   "url": "yomovies.js",
-  "version": "v0.0.5",
-  "webSite": "https://yomovies.town"
+  "version": "v0.0.7",
+  "webSite": "https://yomovies.loan"
+ },
+ {
+  "author": "appdevelpo",
+  "icon": "https://yugenanime.tv/static/img/favicon-32x32.png",
+  "lang": "en",
+  "license": "MIT",
+  "name": "yugenanime",
+  "nsfw": "true",
+  "package": "yugenanime.tv",
+  "type": "bangumi",
+  "url": "yugenanime.tv.js",
+  "version": "v0.0.1",
+  "webSite": "https://yugenanime.tv"
  },
  {
   "author": "OshekharO",
