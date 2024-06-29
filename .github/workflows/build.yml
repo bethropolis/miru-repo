@@ -5,11 +5,20 @@ on:
     branches: [ "monitor" ]
 
 jobs:
-
   build:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
+
+    - name: Cache Node modules
+      uses: actions/cache@v3
+      with:
+        path: |
+          ~/.npm
+          **/node_modules
+        key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+        restore-keys: |
+          ${{ runner.os }}-node-
 
     - name: Set up Node.js
       uses: actions/setup-node@v4
@@ -20,7 +29,17 @@ jobs:
       run: npm ci
     
     - name: test extensions
-      run:  node lib/index.js
+      run: node lib/index.js
+
+    - name: Cache Go modules
+      uses: actions/cache@v3
+      with:
+        path: |
+          ~/go/pkg/mod
+          ~/.cache/go-build
+        key: ${{ runner.os }}-go-${{ hashFiles('**/go.sum') }}
+        restore-keys: |
+          ${{ runner.os }}-go-
 
     - name: Set up Go
       uses: actions/setup-go@v3
@@ -34,4 +53,4 @@ jobs:
       uses: mikeal/publish-to-github-action@master
       env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH_NAME: 'test'
+          BRANCH_NAME: 'monitor'
