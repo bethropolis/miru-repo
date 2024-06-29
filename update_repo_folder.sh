@@ -3,8 +3,9 @@
 # Ensure the script stops on any error
 set -e
 
+
 # Switch to the main branch and pull the latest changes
-git fetch origin
+git fetch upstream
 git checkout main
 git pull upstream main --rebase
 
